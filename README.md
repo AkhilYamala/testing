@@ -1,5 +1,5 @@
 # Coding Problem
-Personal guide
+### Personal guide
 
 ---
 **Problem 1**  
