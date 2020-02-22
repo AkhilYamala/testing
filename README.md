@@ -1,4 +1,4 @@
-# Coding Problem #
+# Coding Problem
 
 Personal guide
 --- 
