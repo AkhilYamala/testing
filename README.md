@@ -1,7 +1,7 @@
 # Coding Problem
 
 Personal guide
---- 
+
 
 **Problem 1**  
   
